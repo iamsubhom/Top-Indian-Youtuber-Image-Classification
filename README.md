@@ -5,7 +5,7 @@
 
 ## Overview
 
-In this data science and machine learning project, we aim to classify sports personalities from a curated list of top individuals. The selected personalities for classification include:
+In this data science and machine learning project, we aim to classify youtube personalities from a curated list of top individuals. The selected personalities for classification include:
 
 1. AJAY NAGAR
 2. AMIT BHADANA
