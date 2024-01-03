@@ -1,4 +1,5 @@
 ![Alt Text](/ui-screenshot.jpg)
+![Alt Text](/ui-screenshot.gif)
 # Sports Personalities Classification Project
 
 ## Overview
