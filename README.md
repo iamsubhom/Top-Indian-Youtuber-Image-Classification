@@ -1,7 +1,7 @@
 ![Alt Text](/ui-screenshot.jpg)
 ## UI 
 ![Alt Text](/ui-screenshot.gif)
-# Youtuber Personalities Classification Project
+# Youtuber Image Classification Project
 
 ## Overview
 
